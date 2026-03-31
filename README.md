@@ -93,7 +93,6 @@
 - [ ] Complete & publish ISL Recognition System with demo video
 - [ ] Launch E-Attendance System for real college use
 - [ ] Contribute to an open-source ML repo
-- [ ] Learn Transformers & NLP deeply
 
 ---
 
@@ -102,9 +101,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/sachin-gupta-82909926b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/sachin1437" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
