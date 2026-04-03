@@ -146,16 +146,6 @@ sachin = {
 
 ---
 
-## 🏆 Achievements & Activity
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sachin1437&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/sachin1437)
-
-</div>
-
----
-
 ## 📜 Certifications
 
 [![Oracle GenAI](https://img.shields.io/badge/Oracle_Cloud-Generative_AI_Professional_2025-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.linkedin.com/in/sachin-gupta1420/)
