@@ -1,8 +1,8 @@
 <div align="center">
 
-# Sachin Gupta
+# Hi, I'm Sachin Gupta 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=MCA+Student+%40+LPU+%7C+Punjab%2C+India;Computer+Vision+%26+Deep+Learning;Building+AI+that+solves+real+problems+%F0%9F%9A%80;YOLOv8+%7C+OpenCV+%7C+MediaPipe+%7C+Django" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Computer+Vision+%26+Deep+Learning;Building+AI+that+solves+real+problems+%F0%9F%9A%80;YOLOv8+%7C+OpenCV+%7C+MediaPipe+%7C+Django;Python+%7C+TensorFlow+%7C+Firebase+%7C+Docker" alt="Typing SVG" />
 
 <br/>
 
@@ -18,7 +18,6 @@
 
 ```python
 sachin = {
-    "currently"  : "MCA @ Lovely Professional University, Punjab",
     "building"   : ["IERS", "Sign Language Recognition", "E-Attendance System"],
     "learning"   : ["Deep Learning", "Computer Vision", "NLP"],
     "stack"      : ["Python", "YOLOv8", "TensorFlow", "OpenCV", "Django"],
@@ -154,6 +153,16 @@ sachin = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=sachin1437&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/sachin1437)
 
 </div>
+
+---
+
+## 📜 Certifications
+
+[![Oracle GenAI](https://img.shields.io/badge/Oracle_Cloud-Generative_AI_Professional_2025-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.linkedin.com/in/sachin-gupta1420/)
+[![Oracle DS](https://img.shields.io/badge/Oracle_Cloud-Data_Science_Professional_2025-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.linkedin.com/in/sachin-gupta1420/)
+[![Oracle Vector](https://img.shields.io/badge/Oracle-AI_Vector_Search_Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.linkedin.com/in/sachin-gupta1420/)
+[![Samsung](https://img.shields.io/badge/Samsung_India-Innovation_Campus-1428A0?style=for-the-badge&logo=samsung&logoColor=white)](https://www.linkedin.com/in/sachin-gupta1420/)
+[![CodeMatrix](https://img.shields.io/badge/AITH_Kanpur-CodeMatrix_Genesis_Hackathon-6C3483?style=for-the-badge&logo=hackthebox&logoColor=white)](https://www.linkedin.com/in/sachin-gupta1420/)
 
 ---
 
