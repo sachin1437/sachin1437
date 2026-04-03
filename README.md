@@ -1,6 +1,6 @@
 <div align="center">
 
-# सचिन • Sachin Gupta
+# Sachin Gupta
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=MCA+Student+%40+LPU+%7C+Punjab%2C+India;Computer+Vision+%26+Deep+Learning;Building+AI+that+solves+real+problems+%F0%9F%9A%80;YOLOv8+%7C+OpenCV+%7C+MediaPipe+%7C+Django" alt="Typing SVG" />
 
