@@ -18,11 +18,11 @@
 
 ```python
 sachin = {
-    "building"   : ["IERS", "Sign Language Recognition", "E-Attendance System"],
+    "building"   : ["IERS", "SignBridge", "Mitra"],
     "learning"   : ["Deep Learning", "Computer Vision", "NLP"],
     "stack"      : ["Python", "YOLOv8", "TensorFlow", "OpenCV", "Django"],
     "off_screen" : "Trekking in the Himalayas 🏔️",
-    "reach_me"   : "linkedin.com/in/sachin-gupta-82909926b"
+    "reach_me"   : "linkedin.com/in/sachin-gupta-82909926b, sachingupta1437@gmail.com"
 }
 ```
 
