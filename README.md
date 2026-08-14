@@ -157,7 +157,7 @@ sachin = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sachin1437&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin1437&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=sachin1437&theme=tokyonight&hide_border=true" width="49%" />
 
 <br/>
 
