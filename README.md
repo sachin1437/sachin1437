@@ -47,6 +47,8 @@ sachin = {
 
 `FastAPI` `React` `Firebase` `Gemini` `Three.js` `WebXR`
 
+*(Mitra's repo is private, code link omitted, ping me if that changes)*
+
 ---
 
 <table>
@@ -62,7 +64,8 @@ sachin = {
 - 💻 Packaged desktop app (PyWebView + PyInstaller)
 - 🧱 Layered detection pipeline, built to scale to more threat classes
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sachin1437/IERS)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sachin1437/IERS)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces/sachingupta07/IERS)
 
 `YOLOv8` `FastAPI` `React` `OpenCV` `Docker`
 
@@ -79,6 +82,8 @@ sachin = {
 - ⚡ Real-time inference via webcam feed
 - 📄 Research write-up in progress for publication
 
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/sachin1437/SignBridge-AI)
+
 `MediaPipe` `PyTorch` `BiLSTM` `OpenCV`
 
 </td>
@@ -94,6 +99,8 @@ sachin = {
 - 👤 ArcFace-based face recognition pipeline
 - 👁️ MediaPipe eye-aspect-ratio liveness check
 - 🗄️ Django backend integration
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/govindsingh00/attendance-system)
 
 `Django` `ArcFace` `MediaPipe` `MySQL`
 
@@ -123,6 +130,7 @@ sachin = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **ML / AI & Computer Vision**
 
@@ -148,7 +156,7 @@ sachin = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sachin1437&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sachin1437&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin1437&theme=tokyonight&hide_border=true" width="49%" />
 
 <br/>
