@@ -156,8 +156,8 @@ sachin = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sachin1437&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=sachin1437&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-two-liart-85.vercel.app/api?username=sachin1437&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-two-liart-85.vercel.app/api/top-langs/?username=sachin1437&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 
 <br/>
 
