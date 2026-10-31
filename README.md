@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=230&section=header&text=Sachin%20Gupta&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20builder%20%7C%20Founder%20of%20NetraaLabs&descAlignY=60&descSize=20" width="100%" alt="Sachin Gupta" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7B2FF7&height=230&section=header&text=Sachin%20Gupta&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20builder%20%7C%20Final-year%20MCA%20student&descAlignY=60&descSize=20" width="100%" alt="Sachin Gupta" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=720&lines=Building+AI+products+that+actually+ship;NearHi+%7C+Mitra+%7C+IERS+%7C+SignBridge;FastAPI+%7C+React+%7C+YOLOv8+%7C+WebRTC;Python+%7C+PyTorch+%7C+TensorFlow+%7C+Docker" alt="Typing SVG" />
 
@@ -80,7 +80,7 @@ WebSocket signaling and messaging, deployed on Railway
 
 ## 👨‍💻 About Me
 
-Final-year MCA student at LPU and founder of **NetraaLabs**. I build AI systems that run in production, not just in a notebook, and I think about privacy before the first line of code.
+Final-year MCA student at LPU. I build AI systems that run in production, not just in a notebook, and I think about privacy before the first line of code.
 
 ```python
 sachin = {
