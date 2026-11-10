@@ -70,7 +70,6 @@ An Omegle-style random chat and video platform with one twist: you set a radius,
       <p>
         <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square">
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
       </p>
       <b>30 FPS on a GTX 1650</b>
@@ -104,7 +103,7 @@ An Omegle-style random chat and video platform with one twist: you set a radius,
 ## 🛠 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,fastapi,django,flask,react,php,redis,mysql,firebase,docker,aws,cloudflare,git,github&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,opencv,fastapi,django,flask,php,redis,mysql,firebase,docker,aws,cloudflare,git,github&perline=9" alt="Tech stack" />
 </p>
 
 <p align="center">
